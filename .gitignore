@@ -1,0 +1,9 @@
+*.iml
+/build/
+/local.properties
+
+/sample/build
+/nohttp/build
+/okhttp/build/
+/.idea/
+/.gradle/
